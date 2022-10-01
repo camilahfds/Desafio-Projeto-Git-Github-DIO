@@ -1,1 +1,3 @@
 Praticando commit.
+
+Este repositório foi criado com intuito de colocar em pratica os conhecimentos adquiridos na aula em questão.
